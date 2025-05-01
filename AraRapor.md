@@ -37,6 +37,7 @@ Projenin ilk aşamasında, ESP8266 mikrodenetleyicisi kullanılarak LCD ekran ü
 - Her bileşen ayrı ayrı test edilip doğru çalıştığı onaylandı, ardından bütün sistem tek bir kod dosyasında entegre edildi.  
 
 **Görseller:**  
+
 - ![Fotoğraf 1](./figures/foto1.jpeg)  
 - ![Fotoğraf 2](./figures/foto2.jpeg)  
 - ![Fotoğraf 3](./figures/foto3.jpeg)  
